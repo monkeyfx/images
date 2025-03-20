@@ -1,0 +1,24 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg" style="background-color:#0B0C10">
+  <!-- 背景 -->
+  <rect width="100%" height="100%" fill="#0B0C10"/>
+  
+  <!-- 禅意图形 - 螺旋交汇 -->
+  <g transform="translate(400,300)">
+    <circle r="100" stroke="#FFFFFF" stroke-width="2" fill="none"/>
+    <path d="M0,0 Q50,-50 100,0 Q50,50 0,0 Q-50,-50 -100,0 Q-50,50 0,0" stroke="#AAAAAA" stroke-width="1.5" fill="none"/>
+  </g>
+
+  <!-- 标题 -->
+  <text x="50%" y="80" font-size="28" fill="#FFFFFF" text-anchor="middle" font-family="Georgia, serif">
+    范式转移中的自我觉醒与主动前行
+  </text>
+
+  <!-- 洞见文字块 -->
+  <foreignObject x="80" y="140" width="640" height="400">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="color:#FFFFFF;font-size:18px;line-height:1.6;font-family:'Helvetica Neue', sans-serif;">
+      <p>范式转移非终结，是觉醒的序章。</p>
+      <p>在AI镜像中反观本我，主动前行，是人类不灭的意志之光。</p>
+      <p style="margin-top:20px;font-style:italic;color:#AAAAAA;">“真正的力量来源于对自我的深度觉醒，以及在不确定中塑造未来的勇气。”</p>
+    </div>
+  </foreignObject>
+</svg>
